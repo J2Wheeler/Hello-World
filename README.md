@@ -1,3 +1,3 @@
 # Hello-World
-a short description
+a short description.
 I'm a maths teacher.
